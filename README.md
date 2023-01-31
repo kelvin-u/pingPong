@@ -1,2 +1,2 @@
 # pingPong
-Simple ping pong game in html & JavaScript
+Simple ping pong game in HTML & JavaScript
